@@ -1,0 +1,16 @@
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\bin\Debug\net5.0\ZTP03.exe
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\bin\Debug\net5.0\ZTP03.deps.json
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\bin\Debug\net5.0\ZTP03.runtimeconfig.json
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\bin\Debug\net5.0\ZTP03.runtimeconfig.dev.json
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\bin\Debug\net5.0\ZTP03.dll
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\bin\Debug\net5.0\ref\ZTP03.dll
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\bin\Debug\net5.0\ZTP03.pdb
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\obj\Debug\net5.0\ZTP03.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\obj\Debug\net5.0\ZTP03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\obj\Debug\net5.0\ZTP03.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\obj\Debug\net5.0\ZTP03.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\obj\Debug\net5.0\ZTP03.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\obj\Debug\net5.0\ZTP03.dll
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\obj\Debug\net5.0\ref\ZTP03.dll
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\obj\Debug\net5.0\ZTP03.pdb
+C:\Users\PC\Source\Repos\ZTP03\ZTP03\obj\Debug\net5.0\ZTP03.genruntimeconfig.cache
